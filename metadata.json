@@ -1,0 +1,6 @@
+{
+  "name": "GestIO",
+  "description": "Un gestionnaire de fichiers moderne pour importer, organiser, éditer et gérer vos favoris simplement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
